@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\nArchitecture.Persistence\nArchitecture.Persistence.csproj" />
+    <ProjectReference Include="..\nArchitecture.Persistence\Core.Persistence.csproj" />
   </ItemGroup>
 
 </Project>

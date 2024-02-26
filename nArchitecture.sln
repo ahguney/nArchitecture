@@ -13,9 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infrastructure", "Infrastru
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CorePackages", "CorePackages", "{D28A2A45-363E-4C97-88F1-334DB011FDB9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nArchitecture.Persistence", "nArchitecture.Persistence\nArchitecture.Persistence.csproj", "{E137B3C5-E83E-40B8-A586-B3FF050A92BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Core.Persistence", "nArchitecture.Persistence\Core.Persistence.csproj", "{E137B3C5-E83E-40B8-A586-B3FF050A92BE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{E8661B50-8DDE-46E7-AA11-E6075CCC7A7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApi", "WebApi\WebApi.csproj", "{E8661B50-8DDE-46E7-AA11-E6075CCC7A7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
