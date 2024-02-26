@@ -15,7 +15,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CorePackages", "CorePackage
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "nArchitecture.Persistence", "nArchitecture.Persistence\nArchitecture.Persistence.csproj", "{E137B3C5-E83E-40B8-A586-B3FF050A92BE}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPI", "WebAPIs\WebAPI.csproj", "{E28E1217-86D1-499D-8E17-0A6CCB3A7FA4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{E8661B50-8DDE-46E7-AA11-E6075CCC7A7F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,10 +43,10 @@ Global
 		{E137B3C5-E83E-40B8-A586-B3FF050A92BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E137B3C5-E83E-40B8-A586-B3FF050A92BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E137B3C5-E83E-40B8-A586-B3FF050A92BE}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E28E1217-86D1-499D-8E17-0A6CCB3A7FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E28E1217-86D1-499D-8E17-0A6CCB3A7FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E28E1217-86D1-499D-8E17-0A6CCB3A7FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E28E1217-86D1-499D-8E17-0A6CCB3A7FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8661B50-8DDE-46E7-AA11-E6075CCC7A7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8661B50-8DDE-46E7-AA11-E6075CCC7A7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8661B50-8DDE-46E7-AA11-E6075CCC7A7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8661B50-8DDE-46E7-AA11-E6075CCC7A7F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
